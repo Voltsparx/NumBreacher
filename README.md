@@ -51,4 +51,5 @@ Users must have legal permission before scanning any phone number.
 ## Author
 
 voltsparx  
+Contact: voltsparx@gmail.com or phanfronix@gmail.com
 GitHub: https://github.com/voltsparx
